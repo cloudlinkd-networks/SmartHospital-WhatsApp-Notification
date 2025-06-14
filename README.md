@@ -18,7 +18,7 @@ Installation and Settings.
 
 - Download the latest "CloudLinkd-Smart-Hospital.zip" file from the releases tab.
 - Unzip the Downloaded file to the root of your smart hospital website.
-- Go to application/libraries/customsms.php and enter your API Secret and WhatsApp Account Unique ID from your CloudLinkd WhatsApp account https://wa.cloudlinkd.com.
+- Go to application/libraries/customsms.php and enter your API Key and Sender ID ( Your Device/Phone number ( *Without country code + ) ) from your CloudLinkd WhatsApp account https://wa.cloudlinkd.com.
 
 ## Settings
 
